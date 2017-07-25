@@ -51,6 +51,10 @@
           <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.3.14.v20161028" />
           <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-servlet:9.4.4.v20170414" />
           <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.4.v20170414" />
+          <element id="library" level="project" name="Maven: com.sparkjava:spark-template-velocity:2.5.5" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
         </element>
       </element>
       <element id="directory" name="META-INF">
