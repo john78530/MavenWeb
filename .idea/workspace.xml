@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a45beb80-fdbb-46f7-b031-39d776fb87e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/spring_boot_web_jsp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_boot_web_jsp_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-web-jsp.iml" afterPath="$PROJECT_DIR$/spring-boot-web-jsp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mkyong/SpringBootWebApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/mkyong/SpringBootWebApplication.java" />
-    </list>
+    <list default="true" id="a45beb80-fdbb-46f7-b031-39d776fb87e1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -475,7 +469,7 @@
       <workItem from="1500898029116" duration="202000" />
       <workItem from="1500898575209" duration="1421000" />
       <workItem from="1500966106565" duration="961000" />
-      <workItem from="1500968582883" duration="52000" />
+      <workItem from="1500968582883" duration="709000" />
     </task>
     <servers />
   </component>
@@ -503,11 +497,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13225000" />
+    <option name="totallyTimeSpent" value="13882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
